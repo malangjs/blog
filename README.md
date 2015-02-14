@@ -9,8 +9,8 @@ $ cd malangjs-blog
 ```
 
 * Cara B (fork repo)
-- Step 1, fork repo ini, click "Fork" menu.
-- Step 2, clone forked repo ke lokal komputermu.
-- Step 3, untuk upload perubahan silahkan "Pull Request".
+  - Step 1, fork repo ini, click "Fork" menu.
+  - Step 2, clone forked repo ke lokal komputermu.
+  - Step 3, untuk upload perubahan silahkan "Pull Request".
 
 
